@@ -4,5 +4,4 @@ This is a tutorial tryout project made with Unity 3D to learn how to make Flappy
 ## Demo
 <p align="center">
   <img src="Demo/Flappy_Bird_Clone.gif"><br/>
-  <i>An example of my model's output.</i>
 </p>
